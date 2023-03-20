@@ -1,0 +1,126 @@
+*{
+
+    padding: 0px;
+}
+
+nav{
+    position: fixed;
+    background-color: skyblue;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+}
+.logo{
+    font-size:25px;
+    position: relative;
+    color: white;
+    font-weight: bold;
+    left: 5%;
+    line-height: 70px;
+}
+ul{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 5px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size:17px;
+}
+.main_image{
+ width: 100%;
+ height: 300px;
+}
+
+
+.welcm-img{
+    width: 100%;
+    height: 250px;
+}
+.container{
+    padding: 70px;
+}
+.teacher{
+    width: 90%;
+    height: 200px;
+}
+.lable_forms{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    padding-right: 10px;
+}
+.input_fields{
+    width: 30%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+.adm-i{
+    padding-top: 10px;
+}
+.input-textarea{
+    width: 30%;
+    height: 120px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+#submit{
+    position: relative;
+    width: 15%;
+    left: 5%;
+}
+footer{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    margin-top: 20px;
+}
+.footer_text{
+    text-align: center;
+    color: white;
+    top: 20%;
+    position: relative;
+}
+.dfm{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.form_deg{
+    padding-top: 200px;
+}
+.lable_deg{
+    display: inline-block;
+    color: skyblue;
+    width: 100px;
+    text-align: right;
+    padding-top: 10px;
+    padding-top: 10px;
+}
+.login-form{
+    background-color: black;
+    width: 400px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+.title_the{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    font-weight:bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 400px;
+    font-size: 20px;
+}
+.bdy{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
